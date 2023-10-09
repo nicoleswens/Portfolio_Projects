@@ -1,3 +1,4 @@
+-- Data Exploration using SQL queries
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
